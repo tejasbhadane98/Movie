@@ -1,0 +1,48 @@
+
+.Images{
+    width: 100%;
+    height:100%;
+    border:10px solid rgb(85, 31, 136);
+   
+}
+.All-content{
+    height: 100vw;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    position:absolute;
+    margin: 5% auto;
+}
+h1,h2,p,h4,h3{
+    color:rgb(12, 11, 11);
+}
+
+
+.details{
+    margin-top:20% ;
+    width: 100%;
+    min-height: 100px;
+   
+
+}
+.sec-1{
+    width: 100%;
+    border: 3px solid wheat;
+    text-align: left;
+}
+
+.movies{
+    width: 400px;
+    height:400px;
+    margin: 2% auto;;
+}
+
+
+/* .Images :hover{
+    height: 110%;
+    width: 50%;
+} */
+
+
